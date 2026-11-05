@@ -1187,5 +1187,16 @@
     "npm": "@chendaleiq/dsh-plugin-auto-update",
     "category": "tools",
     "subcategory": "dev"
+  },
+  {
+    "id": "slumberpavilion",
+    "name": "沉眠阁",
+    "nameEn": "Slumber Pavilion",
+    "author": "AngleNaris",
+    "description": "把 DSH 里已归档会话的日志与投影记录搬出加载路径，并提供归档、读取、还原、删除会话的工具，让归档真正腾出内存与磁盘。",
+    "descriptionEn": "Moves archived DSH sessions' logs and projections out of the load path into a dormant archive, and ships archive, read, restore and delete tools so archiving actually frees memory and disk.",
+    "repo": "https://github.com/AngleNaris/slumberpavilion",
+    "npm": "slumberpavilion",
+    "category": "tools"
   }
 ]
